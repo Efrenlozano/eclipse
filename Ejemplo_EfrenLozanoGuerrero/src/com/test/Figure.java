@@ -21,4 +21,7 @@ public abstract class Figure {
 
     public abstract double calculatePerimeter();
 
+
+
+System.out.println("Esto es nuevo");
 }
