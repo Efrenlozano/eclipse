@@ -23,5 +23,4 @@ public abstract class Figure {
 
 
 
-System.out.println("Esto es nuevo");
 }
